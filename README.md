@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=110&section=header&text=Sweeze&fontColor=ffffff&fontSize=40&fontAlignY=55" alt="Sweeze" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1f6feb,100:8957e5&text=Sweeze&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=%C3%89tudiant%20%C2%B7%20apps%20macOS%20%C2%B7%20automatisation&descSize=16&descAlignY=56&animation=fadeIn" alt="Sweeze" width="100%" />
 </p>
 
 <p align="center">
