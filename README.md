@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=%C3%89tudiant+en+France+%F0%9F%87%AB%F0%9F%87%B7;Apps+macOS+en+Swift;Automatisation+avec+n8n;Je+code+avec+Claude+Code" alt="Étudiant en France · Apps macOS en Swift · Automatisation avec n8n" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=swift,apple,ts,nodejs,docker,git&theme=dark" alt="Swift, macOS, TypeScript, Node.js, Docker, Git" />
 </p>
 
