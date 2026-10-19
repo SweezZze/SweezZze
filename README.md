@@ -12,10 +12,8 @@
 
 ### 🛠️ Projets
 
-| | |
-|---|---|
-| **[chross-macos](https://github.com/SweezZze/chross-macos)** | Le chrono macOS qui compte ton vrai temps de travail : suivi par apps et sites, pause auto, facturation PDF, widget et extension Chrome. |
-| **[swishsaint](https://github.com/hectorpasserat2004-create/swishsaint)** | Une version entre amis de [Vorssaint](https://github.com/vorssaint/vorssaint-utils), l'app de barre des menus pour macOS. J'y ai ajouté la dictée vocale, des gestes du trackpad et l'export des réunions vers Immich. |
+- **[chross-macos](https://github.com/SweezZze/chross-macos)** · Le chrono macOS qui compte ton vrai temps de travail : suivi par apps et sites, pause auto, facturation PDF, widget et extension Chrome.
+- **[swishsaint](https://github.com/hectorpasserat2004-create/swishsaint)** · Une version entre amis de [Vorssaint](https://github.com/vorssaint/vorssaint-utils), l'app de barre des menus pour macOS. J'y ai ajouté la dictée vocale, des gestes du trackpad et l'export des réunions vers Immich.
 
 ### 🐍 Mes contributions
 
